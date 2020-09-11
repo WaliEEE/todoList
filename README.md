@@ -35,5 +35,5 @@
 * Fuctionalities:
   1. Add todo in the List
   2. Mark List objects Complete 
-  3. Delete complted List
+  3. Delete completed List
 
